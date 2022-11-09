@@ -5,10 +5,13 @@
 
     <g transform="translate(500 500)">
 
-        <!-- case -->
-        <rect x="-350" y="-450" width="700" height="900" fill="black" />
+        <!-- monitor -->
+        <rect x="-450" y="-450" width="900" height="600" fill="black" />
         <!-- screen -->
-        <rect x="-300" y="-400" width="600" height="800" stroke="black" stroke-width="5" fill="white" />
+        <rect x="-400" y="-400" width="800" height="500" stroke="black" stroke-width="5" fill="white" />
+
+         <!-- chassis -->
+        <rect x="-450" y="250" width="900" height="200" fill="black" />
 
     </g>
 </svg>
