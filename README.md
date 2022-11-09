@@ -1,9 +1,11 @@
 Trying my hand at making icons by coding directly in SVG.
 
-<img src="mobile.svg" width="100" height="100"/>
-<img src="desktop.svg" width="100" height="100"/>
-<img src="downarrow.svg" width="100" height="100"/>
-<img src="download.svg" width="100" height="100"/>
-<img src="cat.svg" width="100" height="100"/>
-<img src="technicat.svg" width="100" height="100"/>
+<img src="device/mobile.svg" width="100" height="100"/>
+<img src="device/desktop.svg" width="100" height="100"/>
+
+<img src="file/downarrow.svg" width="100" height="100"/>
+<img src="file/download.svg" width="100" height="100"/>
+
+<img src="cat/cat.svg" width="100" height="100"/>
+<img src="cat/technicat.svg" width="100" height="100"/>
 
