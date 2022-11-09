@@ -26,17 +26,19 @@
     </g>
 
     <!-- eyes -->
-    <g fill="green">
+    <!-- g fill="green">
       <g transform="translate(-200 -100) rotate(30)">
         <ellipse cx="0" cy="0" rx="100" ry="70" />
       </g>
       <g transform="translate(200 -100) rotate(-30) ">
         <ellipse cx="0" cy="0" rx="100" ry="70" />
       </g>
-    </g>
+    </g -->
 
     <!-- nose -->
-    <path d="M 0 0 L 100 100 L -100 100 z" fill="red" stroke="blue" stroke-width="3" />
+    <path d="M 0 0 L 100 100 L -100 100 z" fill="black" />
+
+     <!-- whiskers -->
 
     <!-- name -->
     <!-- text x="0" y="470" font-size="80" text-anchor="middle" fill="black">Technicat LLC</text -->
