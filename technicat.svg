@@ -16,7 +16,9 @@
 
     <!-- glasses -->
     <g stroke="black" stroke-width="5" fill="white">
-      <line x1="-70" y1="-100" x2="70" y2="-100" />
+      <g transform="translate(0 -100)">
+        <line x1="-70" y1="0" x2="70" y2="0" />
+      </g>
       <g transform="translate(-200 -100)">
         <circle cx="0" cy="0" r="150" />
       </g>
@@ -38,7 +40,7 @@
     <!-- nose -->
     <path d="M 0 0 L 100 100 L -100 100 z" fill="black" />
 
-     <!-- whiskers -->
+    <!-- whiskers -->
 
     <!-- name -->
     <!-- text x="0" y="470" font-size="80" text-anchor="middle" fill="black">Technicat LLC</text -->
