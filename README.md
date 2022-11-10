@@ -7,6 +7,7 @@ Edited in Visual Studio with the SVG extension by jock.
 
 <img src="file/downarrow.svg" width="100" height="100"/>
 <img src="file/download.svg" width="100" height="100"/>
+<img src="file/code.svg" width="100" height="100"/>
 
 <img src="cat/cat.svg" width="100" height="100"/>
 <img src="cat/catglasses.svg" width="100" height="100"/>
