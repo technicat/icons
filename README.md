@@ -2,10 +2,13 @@ Trying my hand at making icons by coding directly in [SVG](https://www.w3.org/TR
 
 Edited in Visual Studio with an [SVG extension](https://github.com/lishu/vscode-svg2).
 
-## Icon Design Guidelines and Inspirations
+## Icon Design Guidelines
 
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons)
 - [Material Icons Guide](https://developers.google.com/fonts/docs/material_icons)
+
+## Icon and Logo Designers
+
 - [Susan Kare](http://kare.com/)
 - [Paul Rand](https://www.paulrand.design/)
 
