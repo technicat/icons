@@ -4,6 +4,7 @@ Edited in Visual Studio with the SVG extension by jock.
 
 <img src="device/mobile.svg" width="100" height="100"/>
 <img src="device/desktop.svg" width="100" height="100"/>
+<img src="device/book.svg" width="100" height="100"/>
 
 <img src="file/downarrow.svg" width="100" height="100"/>
 <img src="file/download.svg" width="100" height="100"/>
