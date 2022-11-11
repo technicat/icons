@@ -7,12 +7,11 @@ Edited in Visual Studio with an [SVG extension](https://github.com/lishu/vscode-
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons)
 - [Material Icons Guide](https://developers.google.com/fonts/docs/material_icons)
 
-## Icon and Logo Designers
+## Graphic Designers
 
 - [Susan Kare](http://kare.com/)
 - [Paul Rand](https://www.paulrand.design/)
-
-
+- [John Maeda](http://lawsofsimplicity.com/)
 
 ## Preview
 
