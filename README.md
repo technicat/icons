@@ -25,5 +25,6 @@ Edited in Visual Studio with an [SVG extension](https://github.com/lishu/vscode-
 
 <img src="cat/cat.svg" width="100" height="100"/>
 <img src="cat/catglasses.svg" width="100" height="100"/>
+<img src="cat/catglasses-thick.svg" width="100" height="100"/>
 <img src="cat/catshades.svg" width="100" height="100"/>
 
