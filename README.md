@@ -1,6 +1,6 @@
 Trying my hand at making icons by coding directly in [SVG](https://www.w3.org/TR/SVG2/) (so most of these files are less than 1k!)
 
-Edited in Visual Studio with the SVG extension by jock.
+Edited in Visual Studio with an [SVG extension](https://github.com/lishu/vscode-svg2).
 
 <img src="device/mobile.svg" width="100" height="100"/>
 <img src="device/desktop.svg" width="100" height="100"/>
