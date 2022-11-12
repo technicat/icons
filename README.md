@@ -23,8 +23,11 @@ Edited in Visual Studio with an [SVG extension](https://github.com/lishu/vscode-
 <img src="file/download.svg" width="100" height="100"/>
 <img src="file/code.svg" width="100" height="100"/>
 
-<img src="cat/cat.svg" width="100" height="100"/>
+<img src="cat/cateyes.svg" width="100" height="100"/>
 <img src="cat/catglasses.svg" width="100" height="100"/>
 <img src="cat/catglasses-thick.svg" width="100" height="100"/>
 <img src="cat/catshades.svg" width="100" height="100"/>
+
+<img src="food/dimsumtop.svg" width="100" height="100"/>
+<img src="food/dimsumtilt.svg" width="100" height="100"/>
 
