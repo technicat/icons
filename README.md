@@ -1,6 +1,9 @@
-Trying my hand at making icons by coding directly in [SVG](https://www.w3.org/TR/SVG2/) (so most of these files are less than 1k!)
+Trying my hand at making icons by coding directly in [SVG](https://www.w3.org/TR/SVG2/). Advantages:
 
-Edited in Visual Studio with an [SVG extension](https://github.com/lishu/vscode-svg2).
+- SVG is scalable, no messy pixels to stretch or mash together.
+- Concise, no extra stuff thrown in by graphics tools. So far these are all less than 1k!
+- Easy to read and tweak (edited and indented in Visual Studio with an [SVG extension](https://github.com/lishu/vscode-svg2)).
+- A way to learn SVG (and avoid learning more graphics editing tools).
 
 ## Icon Design Guidelines
 
