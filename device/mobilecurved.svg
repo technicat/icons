@@ -7,10 +7,10 @@
     <g transform="translate(500 500)" stroke-linejoin="round">
 
         <!-- case -->
-         <path d="M -350 -400 L 350 -400 L 350 400 L -350 400 z" fill="black" />
+         <path d="M -350 -350 a 50 50 90 0 1 50 -50 L 300 -400 a 50 50 90 0 1 50 50 L 350 350 a 50 50 90 0 1 -50 50 L -300 400 a 50 50 90 0 1 -50 -50 z" fill="black" />
        
         <!-- screen -->
-        <rect x="-300" y="-350" width="600" height="700" fill="white" />
+        <rect x="-250" y="-300" width="500" height="600" fill="white" />
 
     </g>
 </svg>
