@@ -31,6 +31,7 @@ Trying my hand at making icons by coding directly in [SVG](https://www.w3.org/TR
 <img src="cat/catglasses.svg" width="100" height="100"/>
 <img src="cat/catglasses-thick.svg" width="100" height="100"/>
 <img src="cat/catshades.svg" width="100" height="100"/>
+<img src="cat/catshades-thick.svg" width="100" height="100"/>
 
 <img src="food/dimsumtop.svg" width="100" height="100"/>
 <img src="food/dimsumtilt.svg" width="100" height="100"/>
