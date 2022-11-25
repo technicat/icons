@@ -4,7 +4,7 @@ Trying my hand at making icons by coding directly in [SVG](https://www.w3.org/TR
 - Concise, no extra stuff thrown in by graphics tools. So far these are all less than 1k!
 - Easy to read and tweak (edited and indented in Visual Studio Code with an [SVG extension](https://github.com/lishu/vscode-svg2)).
 - A way to learn SVG (and avoid learning more graphics editing tools).
-- And it's nice to have your own graphics, no need to worry about licensing and attribution.
+- And it's nice to have your own graphics IP, no need to worry about licensing and attribution, and if someone pirates it, they pirated you.
 
 ## Icon Design Guidelines
 
