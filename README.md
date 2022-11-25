@@ -26,6 +26,7 @@ Trying my hand at making icons by coding directly in [SVG](https://www.w3.org/TR
 <img src="file/downarrow.svg" width="100" height="100"/>
 <img src="file/download.svg" width="100" height="100"/>
 <img src="file/code.svg" width="100" height="100"/>
+<img src="file/disk.svg" width="100" height="100"/>
 
 <img src="cat/cateyes.svg" width="100" height="100"/>
 <img src="cat/catglasses.svg" width="100" height="100"/>
